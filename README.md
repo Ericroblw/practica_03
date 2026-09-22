@@ -1,4 +1,4 @@
-# Práctica 3: Python — Eric Robles
+# Práctica 3: Python — Eric Emmnauel Ramirez Duanca
 
 ## Descripción
 Resolución de los 20 ejercicios de la Práctica 3 sobre listas, funciones y paquetes, NumPy, diccionarios y pandas, lógica y control de flujo, y bucles.
